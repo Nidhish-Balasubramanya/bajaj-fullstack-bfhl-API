@@ -28,7 +28,8 @@ The task was to build and host a REST API with the following specifications:
 ## 🚀 Hosted API
 
 **Endpoint:**  
-👉 [[https://your-app-name.onrender.com/bfhl](https://bajaj-fullstack-bfhl-api.onrender.com)]([https://your-app-name.onrender.com/bfhl](https://bajaj-fullstack-bfhl-api.onrender.com))  
+👉 https://bajaj-fullstack-bfhl-api.onrender.com/bfhl
+ 
 
 **Method:** `POST`  
 
